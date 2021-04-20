@@ -14,7 +14,7 @@ let profile = {
         city: `Chicago`,
         state: `Illinois`
     },
-    timeline: ['High School', `Bachelor's`, `Masters`]
+    timeline: ['High School', `Bachelor's`, `Masters`] //Array 
 }
 console.log(profile)
 
